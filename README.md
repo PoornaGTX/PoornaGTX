@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/poorna-ranasinghe-7a7009244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poorna-ranasinghe-7a7009244" height="30" width="40" /></a>
 <a href="https://instagram.com/poorna_gtx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="poorna_gtx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@updatemelk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@updatemelk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
